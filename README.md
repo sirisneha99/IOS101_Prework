@@ -20,7 +20,8 @@ Watch my app's walkthrough on loom :
 
 https://www.loom.com/share/8261266905d849669a0157974e20e237?sid=95b129d0-106f-444c-b96e-5f1db5696bc9 
 
-
+gif :
+https://i.imgur.com/NTnrtr8.mp4 
 
 ## Notes
 
