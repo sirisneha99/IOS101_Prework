@@ -1,15 +1,15 @@
 
-# Prework - Background color changer app for IOS 101
+# Background color changer app 
 
-Submitted by: **Sneha Siri Nagabathula**
+
 
 **Background color changer** is an app that changes background color when the button is clicked, it has three labels as of now
 
 Time spent: **1** hours spent in total
 
-## Required Features
+##  Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
